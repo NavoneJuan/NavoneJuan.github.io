@@ -1,14 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
-#contacts1-l P {
-  color: #ffffff;
-}
-#contacts1-l DIV {
-  color: #ffffff;
-}
-#contacts1-l UL {
-  text-align: left;
-}
 #dropdown-menu-p .hide-buttons [data-button] {
   display: none !important;
 }
@@ -29,6 +20,64 @@
 }
 #dropdown-menu-p .navbar-toggler {
   color: #ffffff;
+}
+#features1-26 .mbr-section-title .mbr-header__text {
+  color: #ffffff;
+}
+#features1-26 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-26 P {
+  color: #efefef;
+}
+#features1-27 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-27 P {
+  color: #efefef;
+}
+#features1-28 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-28 P {
+  color: #efefef;
+}
+#features1-28 .mbr-section-title .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-article P {
+  text-align: left;
+}
+#features1-2a .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-2a P {
+  color: #efefef;
+}
+#features1-2b .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-2b P {
+  color: #efefef;
+  text-align: left;
+}
+#contacts1-l P {
+  color: #ffffff;
+}
+#contacts1-l DIV {
+  color: #ffffff;
+}
+#contacts1-l UL {
+  text-align: left;
 }
 
 #features1-2 .mbr-section-title .mbr-header__text {
@@ -168,6 +217,37 @@
 #slider-m P {
   color: #ffffff;
 }
+#contacts1-l P {
+  color: #ffffff;
+}
+#contacts1-l DIV {
+  color: #ffffff;
+}
+#contacts1-l UL {
+  text-align: left;
+}
+#dropdown-menu-p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-p .nav .link,
+#dropdown-menu-p .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-p .navbar,
+#dropdown-menu-p .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-p .dropdown-menu a:hover,
+#dropdown-menu-p .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-p .navbar-toggler {
+  color: #ffffff;
+}
+
 #contacts1-l P {
   color: #ffffff;
 }

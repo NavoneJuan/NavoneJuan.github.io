@@ -1,0 +1,14 @@
+/*
+CTC Separate Stylesheet
+Updated: 2022-05-14 01:36:08
+Theme Name: Instituto Del Sur
+Theme URI: http://institutodelsur.com.ar/
+Template: one-page-express
+Author: NavoneJuan
+Author URI: https://navonejuan.ml/
+Description: Child de One Page Express creado y personalizado para el Instituto del Sur (Viedma)
+Tags: one-column,right-sidebar,custom-header,custom-menu,custom-logo,full-width-template,theme-options,translation-ready,blog,featured-images,threaded-comments
+Version: 1.3.19.1652502968
+*/
+@import url('./../one-page-express/style.css');
+

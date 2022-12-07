@@ -1,0 +1,297 @@
+.floating-mode-switcher-wrap {
+    position: fixed;
+    right: 22px;
+    bottom: 22px;
+    z-index: 99;
+}
+.floating-bottom-right {
+    right: 22px;
+    bottom: 22px;
+}
+.floating-bottom-left {
+    left: 22px;
+    bottom: 22px;
+}
+.floating-top-right {
+    right: 22px;
+    top: 45px;
+}
+.floating-top-left {
+    left: 22px;
+    top: 45px;
+}
+.menu-mode-switch {
+    display: flex !important;
+    align-items: center;
+}
+.menu-mode-switch .dl-switch{
+    margin-bottom: 0;
+}
+/* Switchers */
+.dl-switch  {
+    position: relative;
+    display: inline-block;
+    width: 80px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+}
+  
+.dl-switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+  
+.dl-switch .dl-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #FB9426;
+    transition: .4s;
+    border-radius: 50px;
+}
+
+.light, .dark {
+    position: absolute;
+    left: 10px;
+    font-size: 12px;
+    font-family: inherit;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .4s;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+}
+
+.light {
+    left: auto;
+    right: 10px;
+}
+
+.dark {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.dl-switch .dl-slider:before {
+    position: absolute;
+    content: "";
+    height: 30px;
+    width: 30px;
+    left: 0px;
+    top: -3px;
+    background-color: #040E29;
+    transition: .4s;
+    border-radius: 50%;
+    z-index: 1;
+    background-image: url('./../img/icons/dark.svg');
+    background-repeat: no-repeat;
+}
+  
+.dl-switch input:checked + .dl-slider {
+    background-color: #040E29;
+}
+  
+.dl-switch input:checked + .dl-slider:before {
+    background-color: #FB9426;
+    background-image: url('./../img/icons/light.svg');
+    background-repeat: no-repeat;
+}
+  
+.dl-switch input:checked ~ .light {
+    opacity: 0;
+    visibility: hidden;
+}
+  
+.dl-switch input:checked ~ .dark {
+    opacity: 1;
+    visibility: visible;
+}
+  
+.dl-switch input:checked + .dl-slider:before {
+    transform: translateX(50px);
+}
+
+
+/* Switch Style2 */
+.dl-switch.style2  {
+    width: 62px;
+    height: 30px;
+}
+  
+.dl-switch.style2 .dl-slider:before {
+    height: 26px;
+    width: 26px;
+    left: 2px;
+    top: 2px;
+    background: #fff;
+}
+  
+.dl-switch.style2 input:checked + .dl-slider:before {
+    background: #fff;
+}
+  
+.dl-switch.style2 input:checked + .dl-slider:before {
+    transform: translateX(32px);
+}
+
+
+/* Switch Style3 */
+.dl-switch.style3  {
+    width: 30px;
+    height: 62px;
+    /* transform: rotate(90deg);
+    transform-origin: 0 100%; */
+}
+.dl-switch.style3 .dl-slider  {
+    background-color: #040E29;
+}
+  
+.dl-switch.style3 .dl-slider:before {
+    height: 26px;
+    width: 26px;
+    left: 2px;
+    top: 2px;
+    background-image: url(./icons/dark3.svg);
+}
+
+.dl-switch.style3 .light {
+    top: auto;
+    bottom: 1px;
+    right: auto;
+    left: 8px;
+}
+
+.dl-switch.style3 .dark {
+    top: 17px;
+    left: 8px;
+}
+  
+.dl-switch.style3 input:checked + .dl-slider {
+    background-color: #FB9426;
+}
+.dl-switch.style3 input:checked + .dl-slider:before {
+    background-image: url(./icons/light3.svg);
+}
+  
+.dl-switch.style3 input:checked + .dl-slider:before {
+    transform: translateY(32px);
+}
+
+
+/* Switch Style4 */
+.dl-switch.style4  {
+    width: 96px;
+    height: 30px;
+}
+  
+.dl-switch.style4 .light,
+.dl-switch.style4 .dark {
+    height: 100%;
+    border-radius: 50px;
+    padding: 2px 8px;
+}
+
+.dl-switch.style4 .light {
+    background-color: #FB9426;
+    left: 0;
+    right: auto;
+}
+  
+.dl-switch.style4 .dark {
+    background-color: #040E29;
+    left: auto;
+    right: 0;
+    color: #FB9426;
+}
+  
+.dl-switch.style4 .light .svg {
+    margin-right: 5px;
+}
+  
+.dl-switch.style4 .dark .svg {
+    margin-left: 5px;
+}
+
+.dl-switch.style4 .dl-slider {
+    background-color: #040E29;
+}
+
+.dl-switch.style4 .dl-slider:before {
+    width: 14px;
+    height: 14px;
+    background-image: url(./icons/dark4.svg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    right: 8px;
+    left: auto;
+    top: 50%;
+    transform: translateY(-50%);
+}
+  
+.dl-switch.style4 input:checked + .dl-slider {
+    background-color: #FB9426;
+}
+  
+.dl-switch.style4 input:checked + .dl-slider:before {
+    background-image: url(./icons/light4.svg);
+    right: auto;
+    left: 8px;
+    transform: translate(0, -50%);
+}
+
+/* Switch Style5 */
+.dl-switch.style5  {
+    width: 68px;
+    height: 30px;
+}
+
+.dl-switch.style5 .light,
+.dl-switch.style5 .dark {
+    left: 0;
+    top: 0;
+    right: auto;
+    opacity: 1;
+    visibility: visible;
+}
+
+.dl-active-border {
+    background:#FB9426;
+    width: 30px;
+    height: 3px;
+    left: 0;
+    bottom: 9px;
+    position: absolute;
+    content: "";
+    transition: .4s;
+}
+
+.dl-switch.style5 .dark {
+    left: 37px;
+}
+
+.dl-switch.style5 .dl-slider {
+    background-color: transparent;
+}
+
+.dl-switch.style5 input:checked ~ .dl-slider {
+    background-color: transparent;
+}
+
+.dl-switch.style5 input:checked ~ .light {
+    opacity: 1;
+    visibility: visible;
+}
+
+.dl-switch.style5 input:checked ~ .dl-active-border {
+    background-color: #040E29;
+    transform: translateX(38px);
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poema &#8211; Meta Verso</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Punto de fuga</description>
+	<lastBuildDate>Mon, 17 Jan 2022 22:21:57 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-IMG_20211024_165003359-01-1-32x32.jpeg</url>
+	<title>Poema &#8211; Meta Verso</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Para qué me traen al mundo si saben cómo me pongo</title>
+		<link>./../../../si-saben-como-me-pongo/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 19:36:20 +0000</pubDate>
+				<category><![CDATA[Puesía]]></category>
+		<category><![CDATA[Cotidiana]]></category>
+		<category><![CDATA[Poema]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=139</guid>
+
+					<description><![CDATA[Acomodar la cama para volverla a deshacer, cortar el pasto pa&#8217; que vuelva a crecer, lavar los trastos para ensuciarlos otra vez, bañarse. &#160; Quizás descansar. Pagar, barrer, ordenar. Caer. Cambiar la yerba. Naufragar en la marea. Trabajar de lo que sea. &#160; Rebotar. Ritmo inerte. De rebrotar poco y nada. Compás de la muerte. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Origen</title>
+		<link>./../../../origen/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 18:43:26 +0000</pubDate>
+				<category><![CDATA[Puesía]]></category>
+		<category><![CDATA[Comienzo]]></category>
+		<category><![CDATA[Origen]]></category>
+		<category><![CDATA[Poema]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=130</guid>
+
+					<description><![CDATA[&#160; En lo último del festín solo algunos dioses pasados de copas seguían el juego ya sin ropa de la danza que marcaba el fin. &#160; Divino choque entre criaturas cuando un cuervo se posó en la mesa devoró las sobras con delicadeza y en los jardines se oyó una voz dura: &#160; Quién ordenará [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

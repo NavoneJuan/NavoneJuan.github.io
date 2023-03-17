@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Excesos &#8211; Meta Verso</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Punto de fuga</description>
+	<lastBuildDate>Mon, 31 Jan 2022 03:06:23 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-IMG_20211024_165003359-01-1-32x32.jpeg</url>
+	<title>Excesos &#8211; Meta Verso</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>No importa cuando leas esto</title>
+		<link>./../../../no-importa-cuando-leas-esto/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 03:04:11 +0000</pubDate>
+				<category><![CDATA[Cotidiana]]></category>
+		<category><![CDATA[Bailando]]></category>
+		<category><![CDATA[Excesos]]></category>
+		<category><![CDATA[Viceversa]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=199</guid>
+
+					<description><![CDATA[La Escuelita de los Excesos y la Escuelita de los Ex Sesos les desean una próspera drogacera libre de prejuicios, culpas y ataques morales. Desde la escuelita no damos consejos, ni órdenes, ni clases. No hay horarios, ni uniformes, ni timbres, ni eruditxs. No es un lugar libre, no sabemos dónde queda eso. Pero menos [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

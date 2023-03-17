@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pájaros &#8211; Meta Verso</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Punto de fuga</description>
+	<lastBuildDate>Sun, 30 Jan 2022 02:53:28 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-IMG_20211024_165003359-01-1-32x32.jpeg</url>
+	<title>Pájaros &#8211; Meta Verso</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sin perder el hilo</title>
+		<link>./../../../sin-perder-el-hilo/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 02:53:28 +0000</pubDate>
+				<category><![CDATA[Cuentos y relatos]]></category>
+		<category><![CDATA[Destejer]]></category>
+		<category><![CDATA[Hilo]]></category>
+		<category><![CDATA[Microcuento]]></category>
+		<category><![CDATA[Microrrelato]]></category>
+		<category><![CDATA[Pájaros]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=195</guid>
+
+					<description><![CDATA[&#160; Un cosquilleo, una molestia, una llamada de atención en el dedo chiquito del pie, le dio pie a encontrarse con una hilacha suelta. Jalarla suave, notar que cedía con leves trabas al cambiar de hilado, mientras se destejía. Iba por la cintura cuando observó, entre su tronco y la nada, un bollo enmarañado de [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

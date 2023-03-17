@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Relato &#8211; Meta Verso</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Punto de fuga</description>
+	<lastBuildDate>Wed, 26 Jan 2022 07:08:37 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-IMG_20211024_165003359-01-1-32x32.jpeg</url>
+	<title>Relato &#8211; Meta Verso</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Un blues en MI</title>
+		<link>./../../../un-blues-en-mi/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 07:05:01 +0000</pubDate>
+				<category><![CDATA[Cuentos y relatos]]></category>
+		<category><![CDATA[Blues]]></category>
+		<category><![CDATA[Cinco sentidos]]></category>
+		<category><![CDATA[Oído]]></category>
+		<category><![CDATA[Relato]]></category>
+		<category><![CDATA[Silencio]]></category>
+		<category><![CDATA[Tinnitus]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=176</guid>
+
+					<description><![CDATA[Probablemente algo ebrio, una noche de otoño, sentado fuera de la carpa, en aquel inhóspito llano entre sierras, me porfió su irrefutable revelación: -El silencio no existe.- Meses después, nos enterábamos que tenía tinnitus*. En este caso, un pitido agudo audible solo por él, que no provenía de fuente externa alguna. Supimos, luego de unas [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Desodorante</title>
+		<link>./../../../desodorante/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 05:18:17 +0000</pubDate>
+				<category><![CDATA[Cuentos y relatos]]></category>
+		<category><![CDATA[Aroma]]></category>
+		<category><![CDATA[Cinco sentidos]]></category>
+		<category><![CDATA[Cuento]]></category>
+		<category><![CDATA[Desodorante]]></category>
+		<category><![CDATA[Olfato]]></category>
+		<category><![CDATA[Relato]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=172</guid>
+
+					<description><![CDATA[&#160; -Tenemos que reinventarnos, señores.- Fueron las palabras finales que quedaron resonando luego de la reunión que impulsaba la próxima campaña publicitaria de aquella empresa de desodorantes. Surgieron inmediatamente proyectos y prototipos que reciclaban fragancias ya utilizadas: Jazmín y tierra, para guerreras delicadas; jengibre con miel, para lucir tu espíritu dulce y picante sin tapujos; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pasado</title>
+		<link>./../../../pasado/index.html</link>
+		
+		<dc:creator><![CDATA[fuga]]></dc:creator>
+		<pubDate>Mon, 17 Jan 2022 22:09:17 +0000</pubDate>
+				<category><![CDATA[Cuentos y relatos]]></category>
+		<category><![CDATA[Hundido]]></category>
+		<category><![CDATA[Inundación]]></category>
+		<category><![CDATA[Pasado]]></category>
+		<category><![CDATA[Relato]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=142</guid>
+
+					<description><![CDATA[No hubo sirena de alerta. No dio tiempo. La inundación, esa temporada, les sacó de la cama con el agua al cuello. &#160; Refugiarse en el techo de la casa, la única opción al alcance de la mano. Todo el vecindario, mudado intempestivamente a las alturas en el momento más caluroso del año; dónde el [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
